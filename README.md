@@ -34,7 +34,7 @@ To view these 3D models, you have two options:
 
 ## Usage and Modification
 
-These 3D models are provided under an open-source license, allowing you to use and modify them for personal and commercial projects. Feel free to incorporate these models into your own chess games, educational materials, or any other creative endeavors. Don't forget to credit the original creator and provide a link back to this repository.
+These 3D models are provided under an open-source license, allowing you to use and modify them for personal and commercial projects. Feel free to incorporate these models into your own chess games, educational materials, or any other creative endeavors. Don't forget to credit me and provide a link back to this repository.
 
 ## Contribution and Feedback
 
